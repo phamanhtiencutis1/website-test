@@ -189,8 +189,8 @@ export default function FullWidthTabs() {
           </span>
         </h2>
         <p className="text-slate-400 max-w-2xl mx-auto text-sm md:text-base mt-2">
-          Explore my journey through projects, certifications, and technical expertise. 
-          Each section represents a milestone in my continuous learning path.
+          Khám phá hành trình của tôi qua các dự án, chứng chỉ và chuyên môn kỹ thuật. 
+          Mỗi phần đại diện cho một cột mốc trong con đường học tập liên tục của tôi.
         </p>
       </div>
 
